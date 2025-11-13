@@ -1,0 +1,5 @@
+services
+  c_app:
+    build: .
+    container_name: docker_hello_img
+
